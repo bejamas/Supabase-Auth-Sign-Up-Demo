@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Authenticate Users With Supabase Auth
+
+Sign-up form for signing users with email/password.
 
 ## Getting Started
 
